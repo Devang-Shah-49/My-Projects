@@ -1,6 +1,6 @@
-#About
-Here is the link for viewing Personal-Blog Webpage created by Devang Shah. Site deployed using netlify.app and created using HTML and CSS only.
 
+# About
+Here is the link for viewing Personal-Blog Webpage created by Devang Shah. Site deployed using netlify.app and created using HTML and CSS only.
 https://devang1611.netlify.app/
 
 # Personal-Blog Webpage by Devang Shah
